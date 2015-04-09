@@ -2,7 +2,7 @@
 
 WIP.
 
-[18F](https://18f.gsa.gov) is a great place to work because of its non-governmenty business model.  The best feature this model is the ability to charge our clients fees that cover not just the direct work we provide, but also the overhead activities that make our team better every day, like Guilds, Workgroups, Hub, and 20% time projects.
+[18F](https://18f.gsa.gov) is a great place to work because of its non-governmenty business model.  The best feature of this model is the ability to charge our clients fees that cover not just the direct work we provide, but also the overhead activities that make our team better every day, like Guilds, Workgroups, Hub, and 20% time projects.
 
 To ensure we can sustain this model (as well as export it to other digital service teams!), it is critical that we accurately report what we worked on each week.  This allows for each of our clients to pay their fair share and for 18F to properly manage its human resources (also known as people).
 
